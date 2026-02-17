@@ -1,0 +1,1 @@
+window.revelar = ScrollReveal().reveal('.header'); 
